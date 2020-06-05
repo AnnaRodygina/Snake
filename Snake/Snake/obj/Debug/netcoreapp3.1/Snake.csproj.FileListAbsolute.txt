@@ -1,0 +1,12 @@
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.deps.json
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.json
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.dev.json
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.dll
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.pdb
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.csprojAssemblyReference.cache
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfoInputs.cache
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfo.cs
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.csproj.CoreCompileInputs.cache
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.dll
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.pdb
+/Users/annazanina/From Desktop/Anna/GeekBranes/ООП/Snake/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.genruntimeconfig.cache
